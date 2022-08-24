@@ -1,0 +1,19 @@
+{
+  "name": "bwb_jenkins",
+  "version": "1.0.0",
+  "description": "test jenkins",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository: (https://github.com/jcorbeilla/jenkins-test.git)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jCorbeilla/bwb_jenkins.git"
+  },
+  "author": "J.Corbeilla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jCorbeilla/bwb_jenkins/issues"
+  },
+  "homepage": "https://github.com/jCorbeilla/bwb_jenkins#readme"
+}
